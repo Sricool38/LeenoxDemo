@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67483" started-at="2018-07-08T05:31:08Z" finished-at="2018-07-08T05:32:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67483" started-at="2018-07-08T05:31:08Z" finished-at="2018-07-08T05:32:16Z">
+      <class name="LoginPage.Login">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LoginPage.Login@11438d26]" name="beforeMethod" is-config="true" duration-ms="28767" started-at="2018-07-08T05:31:08Z" finished-at="2018-07-08T05:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Step1_login()[pri:0, instance:LoginPage.Login@11438d26]" name="Step1_login" duration-ms="15810" started-at="2018-07-08T05:31:37Z" finished-at="2018-07-08T05:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step1_login -->
+        <test-method status="PASS" signature="Step2_homePageDetails()[pri:0, instance:LoginPage.Login@11438d26]" name="Step2_homePageDetails" duration-ms="717" started-at="2018-07-08T05:31:53Z" finished-at="2018-07-08T05:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step2_homePageDetails -->
+        <test-method status="PASS" signature="Step3_NavigateToPDP()[pri:0, instance:LoginPage.Login@11438d26]" name="Step3_NavigateToPDP" duration-ms="6393" started-at="2018-07-08T05:31:54Z" finished-at="2018-07-08T05:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step3_NavigateToPDP -->
+        <test-method status="PASS" signature="Step4_ValidateDetailsinPDP()[pri:0, instance:LoginPage.Login@11438d26]" name="Step4_ValidateDetailsinPDP" duration-ms="2" started-at="2018-07-08T05:32:00Z" finished-at="2018-07-08T05:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step4_ValidateDetailsinPDP -->
+        <test-method status="PASS" signature="Step5_NavigateToActivePage()[pri:0, instance:LoginPage.Login@11438d26]" name="Step5_NavigateToActivePage" duration-ms="14534" started-at="2018-07-08T05:32:00Z" finished-at="2018-07-08T05:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step5_NavigateToActivePage -->
+        <test-method status="PASS" signature="Step6_ValidateDetailsinActivePage()[pri:0, instance:LoginPage.Login@11438d26]" name="Step6_ValidateDetailsinActivePage" duration-ms="3" started-at="2018-07-08T05:32:14Z" finished-at="2018-07-08T05:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Step6_ValidateDetailsinActivePage -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:LoginPage.Login@11438d26]" name="AfterMethod" is-config="true" duration-ms="1204" started-at="2018-07-08T05:32:14Z" finished-at="2018-07-08T05:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- LoginPage.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
